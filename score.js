@@ -43,7 +43,7 @@ users.set("0x11e4857bb9993a50c685a79afad4e6f65d518dda", {
     following: [
         "0x52c8ff44260056f896e20d8a43610dd88f05701b"
     ],
-    isEmulateScanToken: false,
+    isEmulateScanToken: true,
     ens: "hayden.eth"
 })
 users.set("0x5d6a6e3b443eba5427eed935d132d3d0eea5a707", {
