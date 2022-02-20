@@ -10,7 +10,7 @@ const scores = new Map();
 
 const bitcoinMarketCap = "725975032036";
 
-users.set("0x505e20c0fb8252ca7ac21d54d5432eccd4f2d076", {
+users.set("0xd8da6bf26964af9d7eed9e03e53415d37aa96045", {
     following: [],
     ens: "vitalik.eth"
 })
